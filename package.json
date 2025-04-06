@@ -16,5 +16,7 @@
     "url": "https://github.com/bennie-dot/es6-review/issues"
   },
   "homepage": "https://github.com/bennie-dot/es6-review#readme",
-  "description": ""
+  "description": "",
+  "type": "module"
+
 }
